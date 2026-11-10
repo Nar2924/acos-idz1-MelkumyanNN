@@ -1,1 +1,0 @@
-# acos-idz1-MelkumyanNN
