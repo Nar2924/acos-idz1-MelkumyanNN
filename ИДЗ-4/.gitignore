@@ -1,0 +1,7 @@
+.build/
+*.o
+garden_app
+gardener_app
+monitor_app
+simulation.log
+.DS_Store
